@@ -15,7 +15,7 @@
 ```bash
 # cd [ชื่อแฟ้มที่ต้องการเข้าไป] ตัวอย่างเช่น cd minecraft
 ```
-## Download File ServerBukkit&Spigot - Plugin
+## Download File Server Bukkit&Spigot - Plugin
 ```bash
 # wget [link] ตัวอย่างเช่น wget 
 https://cdn.getbukkit.org/spigot/spigot-1.10-R0.1-SNAPSHOT-latest.jar
