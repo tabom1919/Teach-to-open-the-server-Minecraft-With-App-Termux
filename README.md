@@ -33,7 +33,7 @@ https://cdn.getbukkit.org/spigot/spigot-1.10-R0.1-SNAPSHOT-latest.jar
 ใช้ตัวไหนก็ได้
 
 ```bash
-# java -Xms512M -Xmx512M -jar [namefile]
+# java -Xms512M -Xmx512M -jar [namefile].jar
 .jar
 ```
 ```bash
