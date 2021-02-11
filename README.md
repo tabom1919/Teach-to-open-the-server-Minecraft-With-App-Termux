@@ -1,7 +1,8 @@
-## Installation Update
+                   Ubuntu 
+## Installation Update & Upgrade
 
 ```bash
-# sudo apt-get update
+# sudo apt-get update & sudo apt-get upgrade
 ```
 ## Installation Java-JDK
 
