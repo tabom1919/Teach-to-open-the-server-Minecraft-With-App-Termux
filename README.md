@@ -8,7 +8,7 @@
 ## Installation Java-JDK
 
 ```bash
-# sudo apt-get install default-jdk
+# sudo apt-get install openjdk-8-jre / openjdk-11-jre
  -y
 ```
 ## Create Fold -  Join in Fold
