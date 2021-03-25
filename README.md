@@ -1,11 +1,11 @@
-##Ubuntu 
+## Ubuntu 
 
 ## Installation Update & Upgrade
 
 ```bash
-# sudo apt-get update & sudo apt-get upgrade
+# sudo apt-get update & sudo apt-get upgrade -y
 ```
-## Installation Java-JDK
+## Installation Java-JDK 8 - 11
 
 ```bash
 # sudo apt-get install openjdk-8-jre / openjdk-11-jre
@@ -14,28 +14,28 @@
 ## Create Fold -  Join in Fold
 
 ```bash
-# mkdir [ชื่อแฟ้มที่ต้องการจะสร้าง] ตัวอย่างเช่น mkdir minecraft
+# mkdir [ชื่อแฟ้มที่ต้องการจะสร้าง] > mkdir minecraft
 ```
 ```bash
-# cd [ชื่อแฟ้มที่ต้องการเข้าไป] ตัวอย่างเช่น cd minecraft
+# cd [ชื่อแฟ้มที่ต้องการเข้าไป] > cd minecraft
 ```
-## Download File Server Bukkit&Spigot - Plugin
+## Download File Server CraftBukkit / Spigot - Plugin
 
 ```bash
-# wget [link] ตัวอย่างเช่น wget 
-https://cdn.getbukkit.org/spigot/spigot-1.10-R0.1-SNAPSHOT-latest.jar
+# wget [link] > wget 
+https://cdn.getbukkit.org/craftbukkit/craftbukkit-1.16.5.jar
 ```
 ## Rename The Jar File
 
 ```bash
-# mv [Oldnamefile] [Rename] ตัวอย่างเช่น mv Spigot-1.10-R0.1-SNAPSHOT-latest.jar Spigot.jar
+# mv [Oldnamefile] [Rename] > mv scraftbukkit-1.16.5.jar craftbukkit.jar
 ```
 
 ## Code Run Server Minecraft
-ใช้ตัวไหนก็ได้
+# Any one can use
 
 ```bash
-# java -Xms512M -Xmx512M -jar [namefile].jar
+# java -Xms512M -Xmx512M -jar craftbukkit.jar
 ```
 ```bash
-# java -Xms1G -Xmx1G -jar [namefile].jar
+# java -Xms1G -Xmx1G -jar craftbukkit.jar
