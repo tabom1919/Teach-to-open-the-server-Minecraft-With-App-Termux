@@ -36,7 +36,6 @@ https://cdn.getbukkit.org/spigot/spigot-1.10-R0.1-SNAPSHOT-latest.jar
 
 ```bash
 # java -Xms512M -Xmx512M -jar [namefile].jar
-.jar
 ```
 ```bash
 # java -Xms1G -Xmx1G -jar [namefile].jar
